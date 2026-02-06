@@ -1,154 +1,167 @@
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header"/>
+
 <div align="center">
 
-# Hey, I'm Aaron 👋
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Full-Stack+%C3%97+Growth+Engineering+%C3%97+AI+Native;Products+That+Market+Themselves;The+Edge+Does+The+Heavy+Lifting" alt="Typing SVG" /></a>
 
-### Full-Stack Developer × Marketing Strategist
-
-**I build products that grow themselves.**
-
-*Former marketing exec who learned to code. Now I ship SaaS platforms, automate growth engines, and make the edge do the heavy lifting.*
-
-[![Portfolio](https://img.shields.io/badge/🌐_aaronbrownemoore.com-000000?style=for-the-badge)](https://aaronbrownemoore.com)
-[![Email](https://img.shields.io/badge/📬_Let's_Talk-EA4335?style=for-the-badge)](mailto:aaron@valyou.solutions)
-
-</div>
-
----
-
-## 🚀 What I've Shipped
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [🍌 Bananafarmer](https://bananafarmer.app)
-**Stock & crypto momentum scoring**
-
-Real-time "ripeness" rankings from market data + X sentiment. 43 Cloudflare Workers ingesting from Tiingo, CoinGecko, and social feeds. AI-generated insights at <$1/day.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/43_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [💼 Valyou Solutions](https://valyou.solutions)
-**Full-service digital agency**
-
-38-page marketing site with MDX content system, multi-platform analytics (GA, Clarity, Meta, LinkedIn), and automated lead capture.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx)
-
-</td>
-</tr>
-</table>
-
-**Plus:** 15+ client sites in production spanning fintech, construction, e-commerce, nonprofits, and professional services.
-
----
-
-## ⚡ How I Build
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**Ship Fast**
-
-Next.js, Astro, React 19<br/>
-TypeScript everything<br/>
-Tailwind + Framer Motion
-
-</td>
-<td width="33%" align="center">
-
-**Stay Lean**
-
-Supabase + PostgreSQL<br/>
-Cloudflare Workers (40+)<br/>
-Edge-first, serverless-only
-
-</td>
-<td width="33%" align="center">
-
-**Scale Smart**
-
-Stripe subscriptions<br/>
-AI at <$1/day ops cost<br/>
-100+ migrations deep
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Full Tech Stack</b></summary>
 <br/>
 
-**Frontend:** Next.js 14-16 · React 18/19 · Astro · TypeScript · Tailwind v4 · Framer Motion · GSAP · Three.js
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header"/>
 
-**Backend:** Supabase · PostgreSQL · Cloudflare Workers · Convex · Sanity CMS
+<br/>
 
-**Payments & AI:** Stripe · DeepSeek · Claude API · OpenAI
-
-**DevOps:** Cloudflare Pages · Vercel · Playwright · Vitest · pnpm Workspaces
-
-</details>
-
----
-
-## 🔥 The Numbers
-
-| 🏗️ Production Apps | ⚡ Edge Workers | 🗄️ DB Migrations | 🌍 i18n Languages | 🧪 E2E Coverage |
-|:------------------:|:---------------:|:----------------:|:-----------------:|:---------------:|
-| **17+** | **40+** | **100+** | **6** | **Playwright** |
-
----
-
-## 🎯 What's Next?
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   I'm always building something interesting.                   │
-│                                                                 │
-│   Right now? Can't say. But it involves edge computing,        │
-│   AI that pays for itself, and solving a problem that's        │
-│   been bugging me for months.                                  │
-│                                                                 │
-│   → Curious? Let's talk.                                        │
-│   → Need something built? I might be building it for you next. │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🧠 The Rare Combo
-
-Most developers don't get marketing. Most marketers can't ship code.
-
-**I do both.**
-
-12+ years in B2B SaaS growth → taught myself to build → now I create products that understand their own distribution. Growth-aware architecture from day one.
-
----
-
-<div align="center">
-
-### Let's Build Something
-
-*Whether it's your next SaaS, a growth engine, or just a good conversation about edge computing.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-aaronbrownemoore.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aaronbrownemoore.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronbrownemoore)
-[![Email](https://img.shields.io/badge/Email-aaron@valyou.solutions-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaron@valyou.solutions)
-
----
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ValyouHustlin.ValyouHustlin&left_color=gray&right_color=blue)
+<!-- STATS LINE -->
+<code>17+ Production Apps</code> · <code>40+ Edge Workers</code> · <code>100+ Migrations</code> · <code>$1/day AI Ops</code>
 
 </div>
+
+<br/>
+
+<!-- SKILL ICONS -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,astro,typescript,tailwind,threejs&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,cloudflare,vercel,nodejs,docker&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=2&section=header"/>
+
+<br/>
+
+<!-- WHAT I'VE SHIPPED -->
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🍌-000000?style=for-the-badge" height="40"/>
+
+### **[Bananafarmer](https://bananafarmer.app)**
+
+<sub>Stock & Crypto Momentum Intelligence</sub>
+
+<br/>
+
+```
+43 Cloudflare Workers
+Real-time sentiment from X
+AI insights at <$1/day
+Tiingo × CoinGecko × DeepSeek
+```
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/💼-000000?style=for-the-badge" height="40"/>
+
+### **[Valyou Solutions](https://valyou.solutions)**
+
+<sub>Full-Service Digital Agency</sub>
+
+<br/>
+
+```
+38-page MDX architecture
+Multi-platform analytics
+GA × Clarity × Meta × LinkedIn
+Automated lead capture
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<sub>Plus <b>15+ client sites</b> across fintech, construction, e-commerce, nonprofits, and professional services.</sub>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=2&section=header"/>
+
+<br/>
+
+<!-- PHILOSOPHY -->
+<div align="center">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/⚡-58A6FF?style=for-the-badge" height="30"/> | <img src="https://img.shields.io/badge/🎯-58A6FF?style=for-the-badge" height="30"/> | <img src="https://img.shields.io/badge/📈-58A6FF?style=for-the-badge" height="30"/> |
+| **Ship Fast** | **Stay Lean** | **Scale Smart** |
+| Next.js 14-16 | Supabase + PostgreSQL | Stripe Subscriptions |
+| React 18/19 | 40+ Cloudflare Workers | AI at <$1/day |
+| TypeScript + Tailwind | Edge-First Architecture | 100+ Migrations |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=2&section=header"/>
+
+<br/>
+
+<!-- THE DIFFERENTIATOR -->
+<div align="center">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                 ┃
+┃   12+ years B2B SaaS growth  →  Learned to code  →  Now I build products       ┃
+┃   that understand their own distribution. Growth-aware from commit one.         ┃
+┃                                                                                 ┃
+┃   Most developers don't get marketing. Most marketers can't ship code.         ┃
+┃                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=2&section=header"/>
+
+<br/>
+
+<!-- WHAT'S NEXT -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/What's_Next%3F-0d1117?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+
+<br/><br/>
+
+*Always building something. Can't say what yet.*
+
+*Edge computing. AI that pays for itself. A problem that's been keeping me up.*
+
+<br/>
+
+**→ [Curious?](mailto:aaron@valyou.solutions)**
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=2&section=header"/>
+
+<br/>
+
+<!-- CONNECT -->
+<div align="center">
+
+<a href="https://aaronbrownemoore.com"><img src="https://img.shields.io/badge/aaronbrownemoore.com-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aaronbrownemoore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:aaron@valyou.solutions"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
