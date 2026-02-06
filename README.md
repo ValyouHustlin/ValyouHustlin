@@ -1,9 +1,3 @@
-# GitHub Profile README
-
-> Copy the content below into your GitHub profile repository's README.md
-
----
-
 <div align="center">
 
 <br>
