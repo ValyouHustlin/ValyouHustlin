@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 ## AI-Native Full-Stack Developer
 
 Building production systems at the intersection of modern web frameworks and AI-augmented workflows.
