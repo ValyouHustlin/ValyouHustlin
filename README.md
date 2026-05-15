@@ -9,7 +9,7 @@
 
 ### Marketing first. Engineering as leverage.
 
-I build growth systems, websites, automations, analytics pipelines, and AI-powered tools for businesses that need practical execution tied to revenue.
+I am a growth marketer and agency operator who can also build the technical systems behind the strategy: websites, funnels, analytics, automations, AI workflows, and products tied to revenue.
 
 <br>
 
@@ -20,9 +20,9 @@ I build growth systems, websites, automations, analytics pipelines, and AI-power
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aaronbrownemoore.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aaronbrownemoore.com)
-[![Agency](https://img.shields.io/badge/Agency-valyou.solutions-4ECDC4?style=for-the-badge)](https://valyou.solutions)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronbrownemoore)
+[![Personal Authority](https://img.shields.io/badge/Personal_Authority-aaronbrownemoore.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aaronbrownemoore.com)
+[![Hire The Agency](https://img.shields.io/badge/Hire_The_Agency-valyou.solutions-4ECDC4?style=for-the-badge)](https://valyou.solutions)
+[![Professional Network](https://img.shields.io/badge/Professional_Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronbrownemoore)
 
 </div>
 
@@ -32,7 +32,7 @@ I build growth systems, websites, automations, analytics pipelines, and AI-power
 
 ## The Positioning
 
-Most developers can build features. Most marketers can shape demand.
+Most developers can build features. Most marketers can shape demand. My edge is connecting both into one operating system.
 
 The rare thing is being able to connect the whole loop:
 
@@ -48,6 +48,21 @@ That is the lane I care about: marketing strategy with the ability to ship the s
 
 <div align="center">
 
+| Proof Point | What It Signals |
+|:---:|:---|
+| **12+ years in B2B growth** | I understand demand, offers, positioning, and pipeline pressure. |
+| **Agency founder** | I know how to turn strategy into delivery across real client constraints. |
+| **17+ production apps** | I can ship working systems, not just plans or slide decks. |
+| **AI systems builder** | I use automation and AI to create leverage without losing the operator view. |
+
+</div>
+
+<br>
+
+## Where I Create Value
+
+<div align="center">
+
 | Marketing | Systems | AI Leverage |
 |:---:|:---:|:---:|
 | Demand generation | Websites and funnels | Local-first AI workflows |
@@ -56,6 +71,8 @@ That is the lane I care about: marketing strategy with the ability to ship the s
 | Conversion strategy | Internal tools | Low-cost operational intelligence |
 
 </div>
+
+This is why the work spans both strategy and implementation. The marketing background decides what should exist. The engineering side makes it real enough to test, measure, and improve.
 
 <br>
 
@@ -70,7 +87,7 @@ That is the lane I care about: marketing strategy with the ability to ship the s
 ### [Valyou Solutions](https://valyou.solutions)
 **Agency for marketing systems, websites, analytics, and automation**
 
-Valyou is the operating base for client work: websites, conversion paths, analytics, lead capture, content infrastructure, technical cleanup, and growth systems.
+Valyou is the operating base for client work. If someone needs the agency side, this is the front door: websites, conversion paths, analytics, lead capture, content infrastructure, technical cleanup, and growth systems.
 
 <br>
 
@@ -84,7 +101,7 @@ Valyou is the operating base for client work: websites, conversion paths, analyt
 ### [Bananafarmer](https://bananafarmer.app)
 **Market intelligence for stock and crypto momentum**
 
-A product and research system around rankings, sentiment, data pipelines, and AI-assisted analysis. It blends product, data, content, and distribution.
+A product proof point: rankings, sentiment, data pipelines, AI-assisted analysis, SEO content, and market education in one system. It blends product, data, content, and distribution.
 
 <br>
 
@@ -100,7 +117,7 @@ A product and research system around rankings, sentiment, data pipelines, and AI
 ### [Clipboard Archive](https://github.com/ValyouHustlin/clipboard-archive-tool)
 **Local-first macOS clipboard history**
 
-A menu bar app that preserves clipboard context locally with privacy-aware filtering, storage modes, search, deletion, install scripts, and release tooling.
+Open-source proof that the builder side is real: a menu bar app that preserves clipboard context locally with privacy-aware filtering, storage modes, search, deletion, install scripts, and release tooling.
 
 <br>
 
@@ -114,7 +131,7 @@ A menu bar app that preserves clipboard context locally with privacy-aware filte
 ### Client And Operator Work
 **B2B SaaS, agencies, service businesses, and local companies**
 
-The day-to-day work spans demand generation, campaign systems, reporting, landing pages, SEO, automation, paid acquisition support, and practical technical execution.
+The day-to-day operator lane: demand generation, campaign systems, reporting, landing pages, SEO, automation, paid acquisition support, and practical technical execution.
 
 <br>
 
@@ -181,6 +198,13 @@ Now I build marketing-aware products and systems from the ground up
 I am building a public body of work around practical growth infrastructure: tools that help businesses understand demand, capture leads, preserve context, automate repeated work, and turn marketing knowledge into durable systems.
 
 The goal is not code for its own sake. The goal is useful systems that can be operated, measured, improved, and trusted.
+
+## Best Entry Point
+
+- Need marketing execution, websites, analytics, or automation? Start with [Valyou Solutions](https://valyou.solutions).
+- Want the bigger personal/professional story? Start with [aaronbrownemoore.com](https://aaronbrownemoore.com).
+- Want proof I ship software? Start with [Clipboard Archive](https://github.com/ValyouHustlin/clipboard-archive-tool) and the public projects here on GitHub.
+- Want to connect professionally? Start with [LinkedIn](https://linkedin.com/in/aaronbrownemoore).
 
 <br>
 
