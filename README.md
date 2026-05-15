@@ -1,4 +1,4 @@
-# Aaron Moore
+# Aaron Browne-Moore
 
 I build practical systems at the intersection of growth, software, and AI.
 
