@@ -152,16 +152,16 @@ The day-to-day operator lane: demand generation, campaign systems, reporting, la
 ## The Origin Story
 
 ```
-Started coding young
-        ↓
+Building computers, coding, and tinkering young
+                      ↓
 Studied Computer Engineering
-        ↓
+                      ↓
 Spent 12+ years in growth, demand generation, and marketing leadership
-        ↓
+                      ↓
 Built Valyou Solutions as the agency and execution base
-        ↓
+                      ↓
 AI reopened the builder lane at full speed
-        ↓
+                      ↓
 Now I build marketing-aware products and systems from the ground up
 ```
 
