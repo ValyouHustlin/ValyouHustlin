@@ -1,81 +1,200 @@
+<!-- TOP WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=2,3,4,5,6,24&section=header&animation=twinkling" width="100%" alt="Colorful wave header" />
+
+<div align="center">
+
 # Aaron Browne-Moore
 
-I build practical systems at the intersection of growth, software, and AI.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=F7DF1E&center=true&vCenter=true&repeat=true&width=720&height=72&lines=Marketing+Operator+Who+Builds;Growth+Strategy+%C3%97+Systems+%C3%97+AI;Agency+Founder+%C3%97+Revenue+Builder;Products+That+Understand+Distribution" alt="Typing animation: marketing operator, growth strategy, systems, AI" /></a>
 
-My background is a little unusual: I started with code, spent years leading
-growth and marketing work, then came back to engineering with a much sharper
-sense of what actually needs to ship. The result is a bias toward tools,
-infrastructure, and products that connect technical execution to distribution,
-operations, and revenue.
+### Marketing first. Engineering as leverage.
 
-## What I Work On
+I build growth systems, websites, automations, analytics pipelines, and AI-powered tools for businesses that need practical execution tied to revenue.
 
-- Local-first AI and automation systems
-- Growth infrastructure for agencies, SaaS, and service businesses
-- Analytics, attribution, lead capture, and reporting pipelines
-- Web apps built with Next.js, React, TypeScript, Tailwind, Supabase, and
-  Cloudflare
-- Internal tools that turn repeated workflows into durable systems
+<br>
 
-I care most about useful software: systems that are understandable, maintainable,
-private where they should be private, and good enough to run every day.
+<img src="https://img.shields.io/badge/12%2B_Years-B2B_Growth-FF6B6B?style=for-the-badge" alt="12 plus years B2B growth" />
+<img src="https://img.shields.io/badge/Agency-Valyou_Solutions-4ECDC4?style=for-the-badge" alt="Valyou Solutions agency" />
+<img src="https://img.shields.io/badge/Builder-17%2B_Production_Apps-A855F7?style=for-the-badge" alt="17 plus production apps" />
+<img src="https://img.shields.io/badge/AI-Operator_Mindset-F7DF1E?style=for-the-badge&logoColor=black" alt="AI operator mindset" />
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aaronbrownemoore.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aaronbrownemoore.com)
+[![Agency](https://img.shields.io/badge/Agency-valyou.solutions-4ECDC4?style=for-the-badge)](https://valyou.solutions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronbrownemoore)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
+
+## The Positioning
+
+Most developers can build features. Most marketers can shape demand.
+
+The rare thing is being able to connect the whole loop:
+
+1. Spot the market pressure.
+2. Shape the offer and message.
+3. Build the site, funnel, workflow, or product.
+4. Instrument the data.
+5. Improve it until it produces revenue, leads, or operational leverage.
+
+That is the lane I care about: marketing strategy with the ability to ship the system behind it.
+
+<br>
+
+<div align="center">
+
+| Marketing | Systems | AI Leverage |
+|:---:|:---:|:---:|
+| Demand generation | Websites and funnels | Local-first AI workflows |
+| Positioning and offers | Analytics and attribution | Agent-ready knowledge systems |
+| Lead capture | Automation and CRM flows | Research and content acceleration |
+| Conversion strategy | Internal tools | Low-cost operational intelligence |
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 
 ## Current Public Work
 
-### [Clipboard Archive](https://github.com/ValyouHustlin/clipboard-archive-tool)
-
-A local-first macOS clipboard history app with a menu bar UI, searchable local
-archive, privacy-aware filtering, storage modes, and release/update tooling.
-
-The interesting part is the product philosophy: useful personal infrastructure
-without cloud sync, telemetry, or hidden network behavior. It is a small example
-of the kind of local AI-adjacent tooling I think more people will want.
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [Valyou Solutions](https://valyou.solutions)
+**Agency for marketing systems, websites, analytics, and automation**
 
-My digital agency and operating base for client work. The work spans websites,
-analytics, automation, growth systems, lead capture, content infrastructure, and
-technical cleanup for businesses that need practical execution.
+Valyou is the operating base for client work: websites, conversion paths, analytics, lead capture, content infrastructure, technical cleanup, and growth systems.
+
+<br>
+
+![Marketing](https://img.shields.io/badge/Marketing_Strategy-FF6B6B?style=flat-square)
+![Analytics](https://img.shields.io/badge/Analytics-4ECDC4?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-A855F7?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
 
 ### [Bananafarmer](https://bananafarmer.app)
+**Market intelligence for stock and crypto momentum**
 
-A market intelligence project exploring stock and crypto momentum, data
-pipelines, sentiment, and low-cost AI-assisted research workflows.
+A product and research system around rankings, sentiment, data pipelines, and AI-assisted analysis. It blends product, data, content, and distribution.
 
-## How I Think About Building
+<br>
 
-Good software is not just code. It is the whole loop:
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-1. Understand the user and the business pressure.
-2. Build the smallest durable system that solves the real problem.
-3. Instrument it well enough to know whether it is working.
-4. Keep the operational cost low.
-5. Make it easier to maintain than to replace.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-That is where my marketing background helps. I am usually thinking about the
-distribution path, the operational workflow, and the customer outcome at the
-same time as the technical implementation.
+### [Clipboard Archive](https://github.com/ValyouHustlin/clipboard-archive-tool)
+**Local-first macOS clipboard history**
+
+A menu bar app that preserves clipboard context locally with privacy-aware filtering, storage modes, search, deletion, install scripts, and release tooling.
+
+<br>
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-111111?style=flat-square&logo=apple&logoColor=white)
+![Local First](https://img.shields.io/badge/Local_First-4ECDC4?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### Client And Operator Work
+**B2B SaaS, agencies, service businesses, and local companies**
+
+The day-to-day work spans demand generation, campaign systems, reporting, landing pages, SEO, automation, paid acquisition support, and practical technical execution.
+
+<br>
+
+![B2B SaaS](https://img.shields.io/badge/B2B_SaaS-FF6B6B?style=flat-square)
+![SEO](https://img.shields.io/badge/SEO-F7DF1E?style=flat-square&logoColor=black)
+![Revenue](https://img.shields.io/badge/Revenue_Systems-A855F7?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
+
+<div align="center">
+
+## The Origin Story
+
+```
+Started coding young
+        ↓
+Studied Computer Engineering
+        ↓
+Spent 12+ years in growth, demand generation, and marketing leadership
+        ↓
+Built Valyou Solutions as the agency and execution base
+        ↓
+AI reopened the builder lane at full speed
+        ↓
+Now I build marketing-aware products and systems from the ground up
+```
+
+**Most developers do not get marketing. Most marketers cannot ship code.**
+
+**I do both, and I care most when the work has a path to revenue, leads, or leverage.**
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 
 ## Stack
 
-Common tools and platforms:
+<div align="center">
 
-- TypeScript, JavaScript, Swift, Python
-- Next.js, React, Astro, Tailwind
-- Supabase, PostgreSQL, Cloudflare Workers, Vercel
-- Stripe, Sanity, MDX, analytics and attribution tooling
-- Local AI tooling, automation scripts, and macOS utilities
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,astro,ts,tailwind,threejs&theme=dark" alt="Frontend skills" /></a>
 
-## Open Source Direction
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase,postgres,cloudflare,vercel,nodejs,docker&theme=dark" alt="Backend and infrastructure skills" /></a>
 
-I am starting to publish more of the practical tools that come out of my own
-workflow. The focus is not novelty for its own sake. It is software that helps
-people preserve context, automate repetitive work, and run more capable local
-systems.
+<br><br>
+
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics_%26_Attribution-FF6B6B?style=flat-square)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-A855F7?style=flat-square)
+
+</div>
+
+## What I Am Building Toward
+
+I am building a public body of work around practical growth infrastructure: tools that help businesses understand demand, capture leads, preserve context, automate repeated work, and turn marketing knowledge into durable systems.
+
+The goal is not code for its own sake. The goal is useful systems that can be operated, measured, improved, and trusted.
+
+<br>
+
+<div align="center">
 
 ## Connect
 
-- Website: [aaronbrownemoore.com](https://aaronbrownemoore.com)
-- Agency: [valyou.solutions](https://valyou.solutions)
-- LinkedIn: [linkedin.com/in/aaronbrownemoore](https://linkedin.com/in/aaronbrownemoore)
-- Email: [aaron@valyou.solutions](mailto:aaron@valyou.solutions)
+[![Portfolio](https://img.shields.io/badge/aaronbrownemoore.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aaronbrownemoore.com)
+[![Valyou](https://img.shields.io/badge/valyou.solutions-4ECDC4?style=for-the-badge)](https://valyou.solutions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronbrownemoore)
+[![Email](https://img.shields.io/badge/Email-aaron@valyou.solutions-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaron@valyou.solutions)
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=2,3,4,5,6,24&section=footer&animation=twinkling" width="100%" alt="Colorful wave footer" />
